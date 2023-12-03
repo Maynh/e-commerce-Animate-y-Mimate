@@ -1,0 +1,19 @@
+body {
+    background-color: #fff; /* Fondo blanco */
+    color: #ffd700; /* Texto dorado */
+}
+
+/* Si necesitas cambiar el color del borde o de otros elementos, puedes hacerlo aquí */
+
+.grid,
+.bloques,
+.nosotros,
+.camisa,
+.formulario,
+.redes {
+    background-color: #fff; /* Fondo blanco para las secciones específicas */
+    color: #ffd700; /* Texto dorado para las secciones específicas */
+}
+
+/* Otras reglas de estilo que puedan necesitar cambios de color */
+
